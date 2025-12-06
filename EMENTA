@@ -1,0 +1,27 @@
+MODULO: GIT E GITHUB
+
+OBJETIVOS:
+- O QUE E GIT? O QUE É GITHUB?
+- PARA QUE SERVE? 
+- COMO FUNCIONAVA ANTES DO GIT?
+- CRIANDO O PRIMEIRO REPOSITÓRIO.
+- SUBINDO OS ARQUIVOS DO PROJETO PARA O REPOSITORIO
+- ATUALIZANDO REPOSITORIO
+- O QUE SÃO COMMIT? 
+
+- VISITANDO REPOSITORIOS DE OUTROS DEVS.
+- COPIANDO PROJETOS
+- COLABORANDO COM OUTROS PROJETOS.
+ 
+
+-----------------------------------
+git config --global user.name "Marcio Ferreira"
+git config --global user.name
+
+git config --global user.email "hmarciogferreira@gmail.com"
+git config --global user.email
+
+
+
+
+git init
