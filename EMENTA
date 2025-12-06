@@ -36,3 +36,11 @@ git push -u origin main
 git add .
 git commit -m "Comentario"
 git push -u origin main
+
+
+------------------------------------
+git clone https://github.com/marciogferreira/site-fs34.git
+
+git add .
+git commit -m "Comentario"
+git push -u origin main
